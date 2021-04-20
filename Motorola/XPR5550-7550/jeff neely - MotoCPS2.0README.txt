@@ -1,0 +1,29 @@
+READ ME!
+
+
+Hi, This is N5ELY again with another Dallas/Metroplex DFW Codeplug. 
+Work was doublechecked for errors!
+Long time programming this....
+
+CPS 2.0
+2.26.203.0 Lastest Version of 2020 
+Older CPS version wont work. Radio was purchase new/New stock from motorola 2020 Purchase.
+
+Motorola XPR5550e UHF
+
+
+Total Time laps Programming... 58 Hours Consecutively.. with 3 sleep breaks...yolo!
+
+Has all
+- DFW DMR
+- FRS/GMRS
+- Business Frequeinces 
+-GMRS Travel 141.3
+- Best Dallas County FM Repeaters
+-Dallas Police RX only
+- Traveling Popular City Repeaters
+
+Note: travel Citys needs to be programmed to users interests...
+
+Check it out and enjoy!
+
