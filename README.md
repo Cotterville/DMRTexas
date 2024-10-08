@@ -1,2 +1,4 @@
 # DMRTexas
-DMRTexas Files
+DMRTexas Files and Stuff.
+
+Change Log of Updates (new)
